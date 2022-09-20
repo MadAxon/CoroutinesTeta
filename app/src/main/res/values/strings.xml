@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestComposaApplication</string>
+    <string name="button_text">Открыть расписание</string>
+    <string name="bottom_sheet_title">Планы на %s число</string>
+</resources>
